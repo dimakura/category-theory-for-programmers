@@ -9,5 +9,4 @@ Status: **CAN BE EXTENDED**
 
 - [C++](./prog.cpp)
 - [Java](./Prog.java)
-- [Python](./prog.py)
 - [Ruby](./prog.rb)

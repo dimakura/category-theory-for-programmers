@@ -8,3 +8,5 @@ Implement the composition function in your favorite language. It takes two funct
 Status: **CAN BE EXTENDED**
 
 - [C++](./prog.cpp)
+- [Java](./Prog.java)
+- [Ruby](./prog.rb)
