@@ -4,5 +4,5 @@
 2. Implement the composition function in your favorite language. It takes two functions as arguments and returns a function  hat is their composition.
 3. Write a program that tries to test that your composition function respects identity.
 4. Is the world-wide web a category in any sense? Are links morphisms?
-5. Is Facebook a category, with people as objects and friendships as morphisms?
+5. Is Facebook a category, with people as objects and friendships as morphisms? [Solution](./05.md)
 6. When is a directed graph a category?
