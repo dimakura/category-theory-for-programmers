@@ -1,4 +1,4 @@
-// $ g++ 01.cpp
+// $ g++ prog.cpp
 // $ ./a.out
 #include<iostream>
 using namespace std;
