@@ -7,7 +7,7 @@ public class Prog {
     System.out.println("id(life) = " + id("life"));
   }
 
-  public static <T> T id(T x) {
+  public static <T> T id(final T x) {
     return x;
   }
 }

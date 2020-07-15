@@ -5,8 +5,7 @@ Implement, as best as you can, the identity function in your favorite language (
 
 ## Solutions
 
-Status: **CAN BE EXTENDED**
-
 - [C++](./prog.cpp)
 - [Java](./Prog.java)
+- [Haskel](./prog.hs)
 - [Ruby](./prog.rb)

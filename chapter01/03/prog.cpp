@@ -1,6 +1,6 @@
 // $ g++ prog.cpp
 // $ ./a.out
-#include<iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -16,7 +16,7 @@ auto compose(C g(B), B f(A)) {
   };
 }
 
-int length(string s) { 
+int length(string s) {
   return s.length();
 }
 
@@ -25,10 +25,10 @@ int main() {
   auto c2 = compose(length, id<string>);
   auto c3 = compose(id<int>, length);
 
-  string data[] {"1", "12", "123", "1234"};
+  string data[]{"1", "12", "123", "1234"};
 
-  for(int i = 0; i < 4; ++i) {
-    cout << c1(data[i]) << " " <<  c2(data[i]) << " " << c3(data[i]) << endl;
+  for (int i = 0; i < 4; ++i) {
+    cout << c1(data[i]) << " " << c2(data[i]) << " " << c3(data[i]) << endl;
   }
 
   return 0;

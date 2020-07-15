@@ -5,6 +5,4 @@ Write a program that tries to test that your composition function respects ident
 
 ## Solutions
 
-Status: **CAN BE EXTENDED**
-
 - [C++](./prog.cpp)

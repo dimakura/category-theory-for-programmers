@@ -5,8 +5,7 @@ Implement the composition function in your favorite language. It takes two funct
 
 ## Solutions
 
-Status: **CAN BE EXTENDED**
-
 - [C++](./prog.cpp)
 - [Java](./Prog.java)
+- [Haskell](./prog.hs)
 - [Ruby](./prog.rb)
